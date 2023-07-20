@@ -11,6 +11,9 @@ jupyterlab-voicechain/labextension
 # Version file is handled by hatchling
 jupyterlab-voicechain/_version.py
 
+#Environment variables
+*.env
+
 # Integration tests
 ui-tests/test-results/
 ui-tests/playwright-report/
